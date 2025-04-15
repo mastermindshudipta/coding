@@ -7,8 +7,6 @@ def print_num(n: int):
     print_num(n-1)
     # after previous function call
     print(n)
-    
-
 
 def main():
     print_num(3)
