@@ -1,3 +1,5 @@
+# N factorial .........
+
 def print_num(n: int):
     # base condition
     if n == 0:
@@ -11,7 +13,8 @@ def print_num(n: int):
 def main():
     print_num(3)
 
-
 if __name__ == "__main__":
     main()
     print("Done")
+
+
