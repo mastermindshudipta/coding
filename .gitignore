@@ -1,4 +1,4 @@
-./java/.idea
-./java/out
-./java/coding.iml
-./java/*.class
+java/.idea
+java/out
+java/coding.iml
+java/*.class
