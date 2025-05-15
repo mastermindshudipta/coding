@@ -10,5 +10,5 @@ def fibbonacci(n:int):
 
 
 if __name__ == "__main__":
-    total = fibbonacci(4)
+    total = fibbonacci(6)
     print(total)
